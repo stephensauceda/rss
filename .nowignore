@@ -1,6 +1,0 @@
-node_modules
-__tests__
-*.test.js
-.env.build
-.env
-.vscode
